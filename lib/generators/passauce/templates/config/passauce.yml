@@ -1,0 +1,51 @@
+development:
+  cert_path: config/certs/my_cert.p12 
+  cert_password: P@ssw0rd
+  wwdr_cert_path: config/certs/wwdr_cert.pem
+  format: 'PKBarcodeFormatQR'
+  messageEncoding: 'iso-8859-1'
+  format_version: 1
+  pass_type_identifier: 'pass_type_identifier'
+  team_identifier: 'team_identifier'
+  web_service_url: 'web_service_url'
+  authentication_token: 'authentication_token'
+  organization_name: 'organization_name'
+  description: 'description'
+  logo_text: 'logo_text'
+  foreground_color: 'rgb(255, 255, 255)'
+  background_color: 'rgb(60, 65, 76)'
+
+
+production:
+  cert_path: config/certs/my_cert.p12 
+  cert_password: P@ssw0rd
+  wwdr_cert_path: config/certs/wwdr_cert.pem
+  format: 'PKBarcodeFormatQR'
+  messageEncoding: 'iso-8859-1'
+  format_version: 1
+  pass_type_identifier: 'pass_type_identifier'
+  team_identifier: 'team_identifier'
+  web_service_url: 'web_service_url'
+  authentication_token: 'authentication_token'
+  organization_name: 'organization_name'
+  description: 'description'
+  logo_text: 'logo_text'
+  foreground_color: 'foreground_color'
+  background_color: 'background_color'
+
+test:
+  cert_path: config/certs/my_cert.p12 
+  cert_password: P@ssw0rd
+  wwdr_cert_path: config/certs/wwdr_cert.pem
+  format: 'PKBarcodeFormatQR'
+  messageEncoding: 'iso-8859-1'
+  format_version: 1
+  pass_type_identifier: 'pass_type_identifier'
+  team_identifier: 'team_identifier'
+  web_service_url: 'web_service_url'
+  authentication_token: 'authentication_token'
+  organization_name: 'organization_name'
+  description: 'description'
+  logo_text: 'logo_text'
+  foreground_color: 'foreground_color'
+  background_color: 'background_color'

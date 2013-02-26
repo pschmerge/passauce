@@ -1,0 +1,11 @@
+development:
+  cert_path: config/certificates
+  barcode_type: 'PKBarcodeFormatQR'
+
+production:
+  cert_path: config/certificates
+  barcode_type: 'PKBarcodeFormatQR'
+
+test:
+  cert_path: config/certificates
+  barcode_type: 'PKBarcodeFormatQR'
