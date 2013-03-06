@@ -164,7 +164,6 @@ module Passauce
         puts "Must save pass before attempting to generate"
       end
 
-      self.save
     end
 
     def path 
